@@ -1,4 +1,4 @@
-![image](https://github.com/vikas5567/vikas5567/assets/161954517/4050feff-5f97-42d6-8b57-98c4817954aa)![image](https://github.com/vikas5567/vikas5567/assets/161954517/67dc3d04-8624-4150-8f2f-693276817fe2)<h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
+<h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src= "code.gif">
