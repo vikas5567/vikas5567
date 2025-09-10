@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas5567&label=Profile%20views&color=0e75b6&style=flat" alt="vikas5567" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://vikas5567.github.io/Portfolio/](https://vikas5567.github.io/Portfolio/](https://portfolio-ebon-nine-23.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-ebon-nine-23.vercel.app/](https://portfolio-ebon-nine-23.vercel.app/)
 
 - 📫 How to reach me **vk7267985@gmail.com**
 
